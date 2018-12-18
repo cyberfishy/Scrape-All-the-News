@@ -1,2 +1,2 @@
 # Scrape-All-the-News
-News scraper that includes the ability to comment, store comments, and more
+All the News That's Fit to Scrape

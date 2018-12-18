@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brendan-kellams/Scrape-All-the-News.git"
+    "url": "git+https://github.com/cyberfishy/Scrape-All-the-News.git"
   },
   "author": "Brendan Kellams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brendan-kellams/Scrape-All-the-News/issues"
+    "url": "https://github.com/cyberfishy/Scrape-All-the-News/issues"
   },
-  "homepage": "https://github.com/brendan-kellams/Scrape-All-the-News#readme",
+  "homepage": "https://github.com/cyberfishy/Scrape-All-the-News#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",

@@ -1,27 +1,38 @@
 {
-  "name": "scrape-all-the-news",
+  "name": "allthenewsscrape",
   "version": "1.0.0",
-  "description": "Using Mongoose and Cheerio to scrape news from the web",
+  "description": "web app that lets users view and leave comments on the latest news scrapped from another site using Cheerio and Mongoose",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyberfishy/Scrape-All-the-News.git"
+    "url": "git+https://github.com/monterocjaime/AllTheNewsScrape.git"
   },
-  "author": "Brendan Kellams",
+  "keywords": [
+    "Cheerio",
+    "Mongoose",
+    "Express",
+    "Handlebars",
+    "Scrape",
+    "Mocha"
+  ],
+  "author": "monterocjaime",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyberfishy/Scrape-All-the-News/issues"
+    "url": "https://github.com/monterocjaime/AllTheNewsScrape/issues"
   },
-  "homepage": "https://github.com/cyberfishy/Scrape-All-the-News#readme",
+  "homepage": "https://github.com/monterocjaime/AllTheNewsScrape#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.2",
+    "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
-    "mongoose": "^4.13.9",
-    "request": "^2.83.0"
+    "mongoose": "^5.3.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
   }
 }

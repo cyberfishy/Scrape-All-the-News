@@ -1,5 +1,5 @@
 {
-  "name": "allthenewsscrape",
+  "name": "Scrape-All-the-News",
   "version": "1.0.0",
   "description": "web app that lets users view and leave comments on the latest news scrapped from another site using Cheerio and Mongoose",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monterocjaime/AllTheNewsScrape.git"
+    "url": "git+https://github.com/cyberfishy/Scrape-All-the-News.git"
   },
   "keywords": [
     "Cheerio",
@@ -19,12 +19,12 @@
     "Scrape",
     "Mocha"
   ],
-  "author": "monterocjaime",
+  "author": "cyberfishy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/monterocjaime/AllTheNewsScrape/issues"
+    "url": "https://github.com/cyberfishy/Scrape-All-the-News.git"
   },
-  "homepage": "https://github.com/monterocjaime/AllTheNewsScrape#readme",
+  "homepage": "https://github.com/cyberfishy/Scrape-All-the-News/README.md",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
